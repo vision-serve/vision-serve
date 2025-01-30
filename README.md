@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Elwira Perdana 👋</h1>
 
-<p align="center">
-    <img src="https://instagram.fdps3-1.fna.fbcdn.net/v/t51.2885-19/452387577_495353923027343_5260241998896494172_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_ht=instagram.fdps3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=1y88EDhw8rsQ7kNvgFqi7o-&_nc_gid=5acdf5f37c9a4a20a7d6660876071dbc&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYDZwr11NslmFlsqmfpoGmy5mqZv9v5wuvd-cCM_94aYfQ&oe=67A0FF6B&_nc_sid=8b3546" width="120" style="border-radius:50%;">
+<p align="center"  style="border-radius:50%;">
+    <img src="https://instagram.fdps3-1.fna.fbcdn.net/v/t51.2885-19/452387577_495353923027343_5260241998896494172_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_ht=instagram.fdps3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=1y88EDhw8rsQ7kNvgFqi7o-&_nc_gid=5acdf5f37c9a4a20a7d6660876071dbc&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYDZwr11NslmFlsqmfpoGmy5mqZv9v5wuvd-cCM_94aYfQ&oe=67A0FF6B&_nc_sid=8b3546" width="120">
 </p>
 
 <p align="center">
