@@ -23,3 +23,7 @@
 - 🌐 [Website](https://visioniconic.com)  
 - 🐦 [Twitter](https://twitter.com/visionserve)  
 - 📘 [LinkedIn](https://linkedin.com/in/visionserve)  
+
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/vision-serve/vision/tests.yml?branch=main)
+![Packagist Downloads](https://img.shields.io/packagist/dt/vision-serve/vision.svg)
+![GitHub License](https://img.shields.io/github/license/vision-serve/vision)
