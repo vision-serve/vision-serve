@@ -13,6 +13,14 @@
     <a href="https://packagist.org/packages/vision-serve/vision"><img src="https://img.shields.io/packagist/dt/vision-serve/vision.svg" alt="Total Downloads"></a>
     <a href="https://visioniconic.com/docs"><img src="https://img.shields.io/badge/docs-Vision%20Framework-blue" alt="Documentation"></a>
 </p>
+# My Project
+
+![Total Downloads](https://img.shields.io/packagist/dt/vision-serve/vision.svg)
+![GitHub Stars](https://img.shields.io/github/stars/vision-serve/vision?style=social)
+![Build Status](https://img.shields.io/travis/vision-serve/vision.svg)
+![License](https://img.shields.io/github/license/vision-serve/vision)
+
+This is a sample project for demonstration purposes.
 
 ## 🚀 About Me  
 - 💻 **Building Vision Framework**, a hybrid **PHP & Golang** web framework  
