@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Elwira Perdana 👋</h1>
 
 <p align="center">
-    <img src="https://visioniconic.com/logo.png" width="120">
+    <img src="https://avatars.githubusercontent.com/u/125210348?v=4" width="120">
 </p>
 
 <p align="center">
