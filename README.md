@@ -10,7 +10,7 @@
 
 <p align="center">
     <a href="https://github.com/vision-serve/vision"><img src="https://img.shields.io/github/stars/vision-serve/vision?style=social" alt="GitHub Stars"></a>
-    <a href="https://packagist.org/packages/vision-serve/vision/stats"><img src="https://img.shields.io/packagist/dt/vision-serve/vision.svg" alt="Total Downloads"></a>
+    <a href="https://packagist.org/packages/vision-serve/vision"><img src="https://img.shields.io/packagist/dt/vision-serve/vision.svg" alt="Total Downloads"></a>
     <a href="https://visioniconic.com/docs"><img src="https://img.shields.io/badge/docs-Vision%20Framework-blue" alt="Documentation"></a>
 </p>
 
