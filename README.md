@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Vision Serve 👋</h1>
 
-<!--
-**vision-serve/vision-serve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img src="https://visioniconic.com/logo.png" width="120">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  🔥 Creator of <b>Vision Framework</b> | 🚀 Passionate about PHP, Go, and Web Development
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="https://github.com/vision-serve/vision"><img src="https://img.shields.io/github/stars/vision-serve/vision?style=social" alt="GitHub Stars"></a>
+    <a href="https://packagist.org/packages/vision-serve/vision"><img src="https://img.shields.io/packagist/dt/vision-serve/vision.svg" alt="Total Downloads"></a>
+    <a href="https://visioniconic.com/docs"><img src="https://img.shields.io/badge/docs-Vision%20Framework-blue" alt="Documentation"></a>
+</p>
+
+## 🚀 About Me  
+- 💻 **Building Vision Framework**, a hybrid **PHP & Golang** web framework  
+- 🔍 Focused on **scalability, performance, and modular architecture**  
+- 📢 Open to collaborations on **open-source and web technologies**  
+
+### 📫 **Connect with Me**  
+- 🌐 [Website](https://visioniconic.com)  
+- 🐦 [Twitter](https://twitter.com/visionserve)  
+- 📘 [LinkedIn](https://linkedin.com/in/visionserve)  
