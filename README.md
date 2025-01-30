@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Vision Serve 👋</h1>
+<h1 align="center">Hi, I'm Elwira Perdana 👋</h1>
 
 <p align="center">
     <img src="https://visioniconic.com/logo.png" width="120">
 </p>
 
 <p align="center">
-  🔥 Creator of <b>Vision Framework</b> | 🚀 Passionate about PHP, Go, and Web Development
+  🔥 Creator of <b>Vision Framework</b> | 🚀 Passionate about PHP, Go, and Web Development Framework
 </p>
 
 <p align="center">
