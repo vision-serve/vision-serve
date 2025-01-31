@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🔥 Creator of <b>Vision Framework</b> | 🚀 Passionate about PHP, Go-Language, for empowering Web Development Framework
+Creator of <b>Vision Framework</b>🔥 | Passionate about PHP, Go-Language, for empowering Web Development Framework🚀
 </p>
 
 <p align="center">
@@ -23,5 +23,4 @@ This is a sample project for demonstration purposes.
 
 ### 📫 **Connect with Me**  
 - 🌐 [Website](https://visioniconic.com)  
-- 🐦 [Twitter](https://twitter.com/visionserve)  
-- 📘 [LinkedIn](https://linkedin.com/in/visionserve)  
+- 🐦 [Instagram](https://instagram.com/elwiraperdana)   
