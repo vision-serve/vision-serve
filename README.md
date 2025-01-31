@@ -14,7 +14,7 @@ Creator of <b>Vision Framework</b>🔥 | Passionate about PHP, Go-Language, for 
     <a href="https://visioniconic.com/docs"><img src="https://img.shields.io/badge/docs-Vision%20Framework-blue" alt="Documentation"></a>
 </p>
 
-Im from ICONIC GROUP as fullstack developer with more than 7 years programming experience.
+Transcending limits to redefined programming solutions for simplified, our stack with 7 years experience in tech startup based in Indonesia.
 
 ## 🚀 About Me  
 - 💻 **Building Vision Framework**, a hybrid **PHP & Golang** web framework  
